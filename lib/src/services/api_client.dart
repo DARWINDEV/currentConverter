@@ -30,7 +30,7 @@ class ApiClient {
           var body = jsonDecode(res.body);
           return body["${from}_${to}"];
         }else{
-          throw Exception('Failed to coonect to API');
+          throw Exception('Failed to connect to API');
         }
   }
 }
