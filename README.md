@@ -1,16 +1,8 @@
 # cambiomoneda
 
-A new Flutter project.
+Aplicación de cambio de divisas hecha con el framework flutter, consumiendo la API de free.currconv.com
 
-## Getting Started
+Vista general:
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/52447471/131032332-f4115ad4-7a09-462e-9c69-a847c4fbd419.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
